@@ -1,0 +1,17 @@
+{
+  "name": "mon_serveur",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "tg",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashleygwilliams/my_package.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7"
+  }
+}
